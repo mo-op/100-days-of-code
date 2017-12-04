@@ -1,30 +1,16 @@
-# 100 Days Of Code - Log
+##Template##
+Day {num}: Date
+Type: School/Personal/Collab/Learning
+Description: What + lessons learnt
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Day 1: 03.12.17
+Type: Collab
+Description: Python project on Connect4 using Minimax and Pygame. I learnt the importance of commenting and keeping track of changes. Will fine tune and push once it's ready.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Day 2: 04.12.17
+Type: Collab
+Description: Debugging the code. Still not ready for the push. :| I learnt that I should be consistent with my ideas.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Day 3: 05.12.17
+Type: Collab + Learning
+Description: SQL Queries on HackerRank (counts as code!) and final stages of debugging.
