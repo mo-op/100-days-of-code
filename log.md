@@ -14,3 +14,8 @@ Description: Debugging the code. Still not ready for the push. :| I learnt that 
 Day 3: 05.12.17
 Type: Collab + Learning
 Description: SQL Queries on HackerRank (counts as code!) and final stages of debugging.
+
+Day 4: 06.12.17
+Type: Learning
+Description: SQL Queries on HackerRank and some code review.
+
