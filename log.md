@@ -19,3 +19,5 @@ Day 4: 06.12.17
 Type: Learning
 Description: SQL Queries on HackerRank and some code review.
 
+Day 5: 07.12.17
+
